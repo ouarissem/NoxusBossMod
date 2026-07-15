@@ -1,0 +1,7 @@
+displayName = Calamity Noxus Boss
+author = Lucille Karma, Fix by Ouarissem
+version = 1.0.9
+internalName = NoxusBossMod
+modReferences = CalamityMod, Luminance
+includeSource = true
+sortAfter = CalamityMod, Luminance

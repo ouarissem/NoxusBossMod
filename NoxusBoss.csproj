@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets"/>
+  <PropertyGroup>
+    <AssemblyName>NoxusBoss</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Reference Include="CalamityMod">
+      <HintPath>..\..\..\tModLoader\ModSources\CalamityMod\bin\Debug\net6.0\CalamityMod.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
